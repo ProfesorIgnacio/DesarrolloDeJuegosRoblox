@@ -29,3 +29,7 @@ https://user-images.githubusercontent.com/127177384/230801070-e254bd81-ea01-43d5
 
 https://user-images.githubusercontent.com/127177384/230801075-c3c04485-c55c-41bd-8f53-5a0dd6c558e6.mp4
 
+### 30 de marzo del 2023
+Proyecto final de mi segunda unidad
+
+[UnidadProyectoFinal2.webm](https://user-images.githubusercontent.com/127177384/230866905-6f948c6e-1b0a-4272-9399-fd10ac34215f.webm)
