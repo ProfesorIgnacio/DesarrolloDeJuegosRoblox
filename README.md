@@ -9,7 +9,6 @@ Mi primer terreno en Roblox Studio :D
 
 https://user-images.githubusercontent.com/127177384/230253472-5716d0e5-4d06-4353-a18b-5f5da31e77bd.mp4
 
-
 ### 08 de marzo del 2023
 Experimentando con propiedades de las piezas
 
@@ -19,6 +18,13 @@ https://user-images.githubusercontent.com/127177384/230256774-48a41961-60ce-422c
 Implementación de terrenos, caja de herramientas y herencia
 
 https://user-images.githubusercontent.com/127177384/230325942-e21e7458-c38c-4281-b094-f2be6a89efdf.mp4
+
+### 17 de marzo del 2023
+¡Mi primer juego en Roblox Studio!
+
+[ProyectoFinal1.webm](https://user-images.githubusercontent.com/127177384/232249903-f2f2d9a6-5627-41fb-8517-739e7410615d.webm)
+
+<br>
 
 ## Segundo bloque del curso
 
@@ -38,6 +44,8 @@ https://user-images.githubusercontent.com/127177384/230868667-27647c1b-844b-4fec
 Proyecto final de mi segunda unidad
 
 [UnidadProyectoFinal2.webm](https://user-images.githubusercontent.com/127177384/230866905-6f948c6e-1b0a-4272-9399-fd10ac34215f.webm)
+
+<br>
 
 ## Tercer bloque del curso
 
